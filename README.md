@@ -9,3 +9,4 @@
    - **ads2.js** - advertising banner number 2
    - **stats.js** - statistics for the site; instructions for connection can be found in the JS script
    - **video-skins.js** - player style configuration
+   - **pages.js** - pages button
