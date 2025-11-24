@@ -1,0 +1,39 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4ecd8;
+        }
+        .video-container {
+            text-align: center;
+        }
+        .back-button {
+            display: inline-block;
+            margin: 20px 0;
+            padding: 10px 15px;
+            background-color: #007BFF;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .back-button:hover {
+            background-color: #0056b3;
+        }
+
+ @font-face {
+            font-family: 'Title';
+            src: url('https://res.dkon.app/new-fonts/Vorgarok.ttf') format('truetype');
+        }
+         
+        @font-face {
+            font-family: 'Descripe';
+            src: url('https://res.dkon.app/new-fonts/Aladin-Regular.ttf') format('truetype');
+        }
+
+        .titleft {
+            font-family: 'Title', sans-serif; 
+        }
+         
+        .descft {
+            font-family: 'Descripe', sans-serif; 
+        }

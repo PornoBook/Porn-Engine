@@ -1,0 +1,59 @@
+  body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4ecd8;
+          }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .item {
+            width: 200px;
+            margin: 10px;
+            text-align: center;
+            background-color: white;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            overflow: hidden;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .item img {
+            width: 100%;
+        }
+        .item h3 {
+            font-size: 1.2em;
+        }
+        .item p {
+            font-size: 0.9em;
+            color: #666;
+        }
+        .pagination {
+            margin: 20px 0;
+            text-align: center;
+        }
+        .page-button {
+            padding: 10px 15px;
+            margin: 0 5px;
+            background-color: #007BFF;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .page-button:hover {
+            background-color: #0056b3;
+        }
+#infositefooter {
+            margin: 20px 0;
+            padding: 10px;
+            background-color: #e9ecef;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+#infositehead {
+            margin: 20px 0;
+            padding: 10px;
+            background-color: #e9ecef;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
